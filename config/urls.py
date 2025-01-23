@@ -8,7 +8,7 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 schema_view = get_schema_view(
     openapi.Info(
-        title='Nesfinder API Docs',
+        title='TASK API Docs',
         default_version='v1',
     )
 )

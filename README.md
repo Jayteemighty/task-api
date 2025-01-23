@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 python manage.py migrate
 ```
-2. Create a superuser account (for initial admin access):
+2. Create a superuser account (for initial admin access): NOT COMPULSORY
 
 ```
 python manage.py createsuperuser
